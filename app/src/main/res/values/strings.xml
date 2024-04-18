@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImageLoader</string>
+
+    <string name="back">Back</string>
+    <string name="checked">Checked</string>
+    <string name="clear">Clear</string>
+    <string name="done">Done</string>
+    <string name="no_result">No search results</string>
+    <string name="photo">Photo</string>
+    <string name="search">Search free photos</string>
+</resources>
